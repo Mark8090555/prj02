@@ -1,12 +1,14 @@
 html{
     margin: 0;
     padding: 0;
+    
 }
 
 body{
     width: 800px;
     margin: 0 auto;
     font-size: 10px;
+    font-family:" 'MuseoModerno', cursive;"
 }
 
 a {text-decoration: none}
